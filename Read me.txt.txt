@@ -8,10 +8,10 @@ Description : The Project is based on Corona virus outbreak.
 This project depicts places with there respective death cases using realtime data from the server
 "www.trackcorona.live/".The Cases has been depicted in following ways:
 
-Green == for death reported less than 100
-Yellow == for death reported less than 1,000
-Red == for death reported less than 10,000
-Blood Red == for death reported over 10,000
+Green == for Countries with death reported less than 100
+Yellow == for COuntries with death reported less than 1,000
+Red == for death COuntrie with sreported less than 10,000
+Blood Red == for COuntries with death reported over 10,000
 
 References: 1)www.google.com
             2)www.w3schools.com
@@ -21,5 +21,5 @@ Created by : Debo Deep Karmakar
              Haldia Institute of Technology.
              
 published on : Github
-        link :              
+        link :  "https://debo-deep11.github.io/COVID-map/"            
            
